@@ -6,7 +6,7 @@ This project performs SQL-based analytics on banking data to generate KPIs and d
 ## Data Structure
 The image below shows how the banking data is structured across tables.
 
-![Database Structure](screenshots/database_structure.png)
+![Database Structure](database_structure.png.jpg)
 
 ## Key KPIs
 - Top customers by total balance
